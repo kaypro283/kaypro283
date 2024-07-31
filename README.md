@@ -15,6 +15,7 @@
 
 * Data Analysis & Statistics
 * Python, R, JavaScript, COBOL, FORTRAN, Pascal
+* UNIX/Linux
 
 ## Current Projects
 
